@@ -59,6 +59,14 @@ h1 {
   padding-top: 200px;
   text-align: center;
   margin-top: 0;
+  text-transform: uppercase;
+}
+h2 {
+  text-transform: uppercase;
+}
+h3 {
+  margin-top: 0;
+  text-transform: uppercase;
 }
 button {
   min-width: 50px;
